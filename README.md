@@ -5,7 +5,7 @@ Sou Mayara Dantas, tenho 22 anos. Faço de tudo um pouco, da arte à tecnologia.
 
 ------
 <details>
-<summary><b>Tecnologias:</b></summary>
+<summary><b>Tecnologias</b></summary>
 <p>[ ] ▪ Lógica de Programação </p>
 <p>[ ] ▪ Banco de Dados (MySQL)</p>
 <p>[ ] ▪ Java</p>
@@ -16,21 +16,22 @@ Sou Mayara Dantas, tenho 22 anos. Faço de tudo um pouco, da arte à tecnologia.
 <p>[ ] ▪ JavaScript</p>
 <p>[ ] ▪ CSS/ HTML</p>
 </details>
---------- 
 
-
+<details>
+   <summary><b>Contatos</b></summary>
    </div>
             <div class="row d-flex justify-content-center">
                 <div class="col-md-12 d-flex justify-content-center">
                     <a href="https://www.linkedin.com/in/mayara-dantas-616967190/" target="_blank">
-                        <img src="assets/img/icon-linkedin.png" alt="Logo do LinkdIn" width="25px" height="25px">
+                        <img src="icon-linkedin.png" alt="Logo do LinkdIn" width="25px" height="25px">
                     </a>
                     <a href="https://www.instagram.com/_mayaradantass/" target="_blank">
-                        <img class="ml-3" src="assets/img/icon-instagram.png" alt="Logo do Instagram" width="25px"
+                        <img class="ml-3" src="icon-instagram.png" alt="Logo do Instagram" width="25px"
                             height="25px">
                     </a>
                     <a href="https://github.com/MayaraDantas" target="_blank">
-                        <img class="ml-3" src="assets/img/icon-github.png" alt="Logo do GitHub" width="25px"
+                        <img class="ml-3" src="icon-github.png" alt="Logo do GitHub" width="25px"
                             height="25px">
+                       </details>
                     </a>
        
